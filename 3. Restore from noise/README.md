@@ -19,18 +19,11 @@ please enter the file name: image1.jpg
 
 成果展示與討論：
 
-執行範例 1.
-
-![Original Image](input1.jpg)
-![Magnitude Spectrum](demo\magnitude1.jpg)
-![Phase Spectrum](demo\phase1.jpg)
-![Output](demo\output1.jpg)
-
-執行範例 2.
+執行範例：
 
 ![Original Image](input2.jpg)
-![Magnitude Spectrum](demo\magnitude2.jpg)
-![Phase Spectrum](demo\phase2.jpg)
-![Output](demo\output2.jpg)
+![Magnitude Spectrum](demo/magnitude2.jpg)
+![Phase Spectrum](demo/phase2.jpg)
+![Output](demo/output2.jpg)
 
 
