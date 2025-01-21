@@ -12,7 +12,7 @@
 照片刊登在著名的 CS362 荒野探險旅遊雜誌上。
 
 程式架構與功能說明：
-1. 使用者從 Conslole 視窗輸入來源照片檔案名稱(包含副檔名) ：
+1. 使用者從 Console 視窗輸入來源照片檔案名稱(包含副檔名) ：
 please enter the file name: image1.jpg 
 2. 建立一個 figure1 視窗，以 顯示原始圖片、振幅譜、相位譜，以及恢復後的
 圖片，並將圖片存到 output 目錄下的檔案 output.jpg。
@@ -22,7 +22,15 @@ please enter the file name: image1.jpg
 執行範例 1.
 
 ![Original Image](input1.jpg)
+![Magnitude Spectrum](demo\magnitude1.jpg)
+![Phase Spectrum](demo\phase1.jpg)
+![Output](demo\output1.jpg)
 
 執行範例 2.
+
+![Original Image](input2.jpg)
+![Magnitude Spectrum](demo\magnitude2.jpg)
+![Phase Spectrum](demo\phase2.jpg)
+![Output](demo\output2.jpg)
 
 
