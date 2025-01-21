@@ -1,11 +1,9 @@
 # Skin Color Detection
 膚色偵測
 
-專案目標：
-撰寫一個程式來偵測照片中的皮膚顏色區域並將其標示出。使用附件中的6張照片及膚色標準答案(Ground Truth)做測試，並呈現所設計膚色偵測方法執行結果的IOU數值，及6個IOU數值之平均。
-
-注意：
-不能由人工對每張圖片分別調整參數。
+專案目標：  
+撰寫一個程式來偵測照片中的皮膚顏色區域並將其標示出。使用附件中的6張照片及膚色標準答案(Ground Truth)做測試，並呈現所設計膚色偵測方法執行結果的IOU數值，及6個IOU數值之平均。  
+注意，不能由人工對每張圖片分別調整參數。
 
 
 程式架構與功能說明：
@@ -16,23 +14,23 @@
 
 成果展示與討論：
 
-執行範例 1.
+執行範例 1.  
 ![Output1](demo/output1.jpg)
 
-執行範例 2.
+執行範例 2.  
 ![Output2](demo/output2.jpg)
 
-執行範例 3.
+執行範例 3.  
 ![Output3](demo/output3.jpg)
 
-執行範例 4.
+執行範例 4.  
 ![Output4](demo/output4.jpg)
 
-執行範例 5.
+執行範例 5.  
 ![Output5](demo/output5.jpg)
 
-執行範例 6.
+執行範例 6.  
 ![Output6](demo/output6.jpg)
 
-平均
+平均  
 ![Average](demo/output7.jpg)
